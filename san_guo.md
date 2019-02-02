@@ -39,14 +39,11 @@
     <tr> <td>赤壁鏖兵前得诸葛亮</td> <td></td> </tr> 
     <tr> <td>赤壁战后得白眉马良，后又得庞统</td> <td></td> </tr> 
     <tr> <td>入川之前密得张松、法正</td> <td></td> </tr> 
-    <tr> <td rowspan="9">孙权<br>爱才，礼贤下士<br> </td> 
+    <tr> <td rowspan="6">孙权<br>爱才，礼贤下士<br> </td> 
          <td>张昭</td> <td> </td> </tr>
-    <tr> <td>鲁肃</td> <td>2.7</td> </tr> 
+    <tr> <td>鲁肃</td> <td></td> </tr> 
     <tr> <td>诸葛瑾</td> <td></td> </tr> 
-    <tr> <td>鬼才郭嘉</td> <td></td> </tr> 
-    <tr> <td>程昱</td> <td></td> </tr> 
-    <tr> <td>戏志才</td> <td></td> </tr> 
-    <tr> <td>刘晔</td> <td></td> </tr> 
-    <tr> <td>蒋济</td> <td></td> </tr> 
-    <tr> <td>冢虎司马懿</td> <td></td> </tr>   
+    <tr> <td>大将:周瑜</td> <td></td> </tr> 
+    <tr> <td>吕蒙</td> <td></td> </tr> 
+    <tr> <td>陆逊</td> <td></td> </tr> 
 </table>
