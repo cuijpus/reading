@@ -21,7 +21,7 @@
     <tr> <td rowspan="2">吕布<br>勇猛有余，刚愎自用<br>不义之人，三姓家奴<br>不爱才<br> </td> 
          <td>陈宫</td> <td> </td> </tr>
     <tr> <td>陈珪、陈登父子</td> <td>2.7</td> </tr> 
-    <tr> <td rowspan="8">袁绍<br>不爱才，优柔寡断<br> </td> 
+    <tr> <td rowspan="8">袁绍<br>疑心重，不爱才，优柔寡断<br> </td> 
          <td>田丰</td> <td> </td> </tr>
     <tr> <td>沮授</td> <td>2.7</td> </tr> 
     <tr> <td>许攸</td> <td></td> </tr> 
