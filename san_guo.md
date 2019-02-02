@@ -1,13 +1,8 @@
 
 # 雄主的谋士；如何驾驭？
-
-<table>
-  <tr> <td>雄主</td> <td>谋士、武将</td> <td>能用好吗?</td> <td>经典案例</td> </tr>
-</table>
-  
   
 <table> 
-    <tr><td>雄主</td> <td>谋士</td> <td>经典案例</td> </tr>
+    <tr><td>雄主</td> <td>谋士、武将</td> <td>经典案例</td> </tr>
     <tr> <td rowspan="9">曹操<br>爱才，礼贤下士<br> </td> 
       <td><a href = "https://baike.baidu.com/item/%E8%8D%80%E5%BD%A7/17355?fr=aladdin">荀彧</a></td> 
       <td>为曹操规划制定了统一北方的蓝图和军事路线<br>
