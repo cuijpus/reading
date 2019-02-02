@@ -13,7 +13,7 @@
           后因反对曹操称魏公而为其所忌，调离中枢，在寿春忧郁成病而亡<br>
       </td> 
     </tr>
-    <tr> <td><a href = "https://baike.baidu.com/item/%E8%8D%80%E6%94%B8/18122?fr=aladdin">荀攸</td>
+  <tr> <td><a href = "https://baike.baidu.com/item/%E8%8D%80%E6%94%B8/18122?fr=aladdin">荀攸</a></td>
          <td> 曹操迎天子入许都之后，荀攸成为曹操的军师。 <br>
            曹操征伐吕布时荀攸劝阻了曹操退兵，并献奇计水淹下邳城，活捉吕布。<br>
            官渡之战荀攸献计声东击西<br>
@@ -22,7 +22,13 @@
            平定河北期间，荀攸力排众议，主张曹操消灭袁绍诸子<br>
       </td>
     </tr> 
-    <tr> <td>毒士贾诩</td> <td></td> </tr> 
+  <tr> <td><a href="https://baike.baidu.com/item/%E8%B4%BE%E8%AF%A9/8870?fr=aladdin">贾诩</a></td>
+    <td>
+      官渡之战时，贾诩力主与袁绍决战。<br>
+      赤壁之战前，认为应安抚百姓而不应劳师动众讨江东，曹操不听，结果受到严重的挫败。<br>
+      曹操与关中联军相持渭南时，贾诩献离间计瓦解马超、韩遂，使得曹操一举平定关中。<br>
+    </td> 
+  </tr> 
     <tr> <td>鬼才郭嘉</td> <td></td> </tr> 
     <tr> <td>程昱</td> <td></td> </tr> 
     <tr> <td>戏志才</td> <td></td> </tr> 
