@@ -8,7 +8,7 @@
   
 <table> 
     <tr><td>雄主</td> <td>谋士</td> <td>经典案例</td> </tr>
-    <tr> <td rowspan="7">曹操<br>爱才，礼贤下士<br> </td> 
+    <tr> <td rowspan="9">曹操<br>爱才，礼贤下士<br> </td> 
          <td>荀彧</td> <td> </td> </tr>
     <tr> <td>荀攸</td> <td>2.7</td> </tr> 、
     <tr> <td>毒士贾诩</td> <td></td> </tr> 
