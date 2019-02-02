@@ -30,4 +30,13 @@
     <tr> <td>审配</td> <td></td> </tr> 
     <tr> <td>荀谌</td> <td></td> </tr> 
     <tr> <td>辛毗</td> <td></td> </tr> 
+    <tr> <td rowspan="8">刘备<br>极为爱才<br> </td> 
+         <td>早期有孙乾、简雍</td> <td> </td> </tr>
+    <tr> <td>徐州之后得麋竺</td> <td>2.7</td> </tr> 
+    <tr> <td>到荆州之后得到刘表谋臣伊籍的帮助</td> <td></td> </tr> 
+    <tr> <td>后来伊籍跟随刘备</td> <td></td> </tr> 
+    <tr> <td>在新野得徐庶</td> <td></td> </tr> 
+    <tr> <td>赤壁鏖兵前得诸葛亮</td> <td></td> </tr> 
+    <tr> <td>赤壁战后得白眉马良，后又得庞统</td> <td></td> </tr> 
+    <tr> <td>入川之前密得张松、法正</td> <td></td> </tr>   
 </table>
