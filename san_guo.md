@@ -110,11 +110,33 @@
         和好审配<br>
         辅助袁尚<br>
         袁谭要求配兵为审配拒绝，一怒之下杀了逢纪。
+      </td>
+  </tr> 
+  <tr> <td><a href = "https://baike.baidu.com/item/%E5%AE%A1%E9%85%8D/1124402">审配</a></td> 
+      <td>官渡之战<br>
+        矫令奉尚<br>
+        邺城攻防<br>
+        面北而死<br>
+      </td> 
+  </tr> 
+  <tr> <td>< a href = "https://baike.baidu.com/item/%E9%83%AD%E5%9B%BE/1124177?fr=aladdin">郭图</a></td> 
+      <td> 
+        官渡之战时力主趁机偷袭曹营，在此计失败后为免于责罚<br>
+        而归罪于率军偷袭曹营的张郃、高览，致使二人背袁投曹。<br>
+        袁绍死后为其长子袁谭效力，于205年和袁谭一同被曹操所杀。<br>
       </td> </tr> 
-    <tr> <td>审配</td> <td></td> </tr> 
-    <tr> <td>郭图</td> <td></td> </tr> 
-    <tr> <td>荀谌</td> <td></td> </tr> 
-    <tr> <td>辛毗</td> <td></td> </tr> 
+  <tr> <td>< a href = "https://baike.baidu.com/item/%E8%8D%80%E8%B0%8C/6115859?fr=aladdin">荀谌</a></td>
+    <td>荀彧的同胞兄弟<br>巧辩韩馥,让冀州给袁绍</td> </tr> 
+    <tr>
+      <td><a href = "https://baike.baidu.com/item/%E8%BE%9B%E6%AF%97/1020393?fr=aladdin">辛毗</a>
+      </td>
+      <td>
+        侍奉袁氏<br>
+        归入曹营<br>
+        引裾力争<br>
+        随军伐吴<br>
+        持节阻战<br>
+      </td> </tr> 
     <tr> <td rowspan="8">刘备<br>极为爱才<br> </td> 
          <td>早期有孙乾、简雍</td> <td> </td> </tr>
     <tr> <td>徐州之后得麋竺</td> <td>2.7</td> </tr> 
