@@ -120,13 +120,13 @@
       </td> 
   </tr> 
   <tr>
-    <td>< a href = "https://baike.baidu.com/item/%E9%83%AD%E5%9B%BE/1124177?fr=aladdin">郭图</a></td> 
+    <td><a href = "https://baike.baidu.com/item/%E9%83%AD%E5%9B%BE/1124177?fr=aladdin">郭图</a></td> 
       <td> 
         官渡之战时力主趁机偷袭曹营，在此计失败后为免于责罚<br>
         而归罪于率军偷袭曹营的张郃、高览，致使二人背袁投曹。<br>
         袁绍死后为其长子袁谭效力，于205年和袁谭一同被曹操所杀。<br>
       </td> </tr> 
-  <tr> <td>< a href = "https://baike.baidu.com/item/%E8%8D%80%E8%B0%8C/6115859?fr=aladdin">荀谌</a></td>
+  <tr> <td><a href = "https://baike.baidu.com/item/%E8%8D%80%E8%B0%8C/6115859?fr=aladdin">荀谌</a></td>
     <td>荀彧的同胞兄弟<br>巧辩韩馥,让冀州给袁绍</td> </tr> 
     <tr>
       <td><a href = "https://baike.baidu.com/item/%E8%BE%9B%E6%AF%97/1020393?fr=aladdin">辛毗</a>
