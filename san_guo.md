@@ -81,7 +81,14 @@
          <td>陈宫</td> <td> </td> </tr>
     <tr> <td>陈珪、陈登父子</td> <td>2.7</td> </tr> 
     <tr> <td rowspan="8">袁绍<br>疑心重，不爱才，优柔寡断<br> </td> 
-         <td>田丰</td> <td> </td> </tr>
+      <td><a href = "https://baike.baidu.com/item/%E7%94%B0%E4%B8%B0/5656?fr=aladdin">田丰</a> </td>
+      <td>
+        其为人刚直，曾多次向袁绍进言而不被采纳，曹操部下谋臣荀彧曾评价他“刚而犯上”。<br>
+        田丰在界桥之战中参与保护袁绍。后来为袁绍出计策，在平定公孙瓒过程中有功。<br>
+        后因谏阻袁绍征伐曹操而被袁绍下令监禁。<br>
+        官渡之战后，田丰被袁绍杀害。 <br>
+      </td> 
+  </tr>
     <tr> <td>沮授</td> <td>2.7</td> </tr> 
     <tr> <td>许攸</td> <td></td> </tr> 
     <tr> <td>逢纪</td> <td></td> </tr> 
