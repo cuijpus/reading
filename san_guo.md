@@ -105,9 +105,14 @@
         因自恃其功而屡屡口出狂言，终因触怒曹操而被杀。
       </td>
   </tr> 
-    <tr> <td>逢纪</td> <td></td> </tr> 
-    <tr> <td>郭图</td> <td></td> </tr> 
+  <tr> <td><a href = "https://baike.baidu.com/item/%E9%80%A2%E7%BA%AA/4885541?fr=aladdin">逢纪</a></td> 
+      <td>献计取冀<br>
+        和好审配<br>
+        辅助袁尚<br>
+        袁谭要求配兵为审配拒绝，一怒之下杀了逢纪。
+      </td> </tr> 
     <tr> <td>审配</td> <td></td> </tr> 
+    <tr> <td>郭图</td> <td></td> </tr> 
     <tr> <td>荀谌</td> <td></td> </tr> 
     <tr> <td>辛毗</td> <td></td> </tr> 
     <tr> <td rowspan="8">刘备<br>极为爱才<br> </td> 
