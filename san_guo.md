@@ -119,7 +119,8 @@
         面北而死<br>
       </td> 
   </tr> 
-  <tr> <td>< a href = "https://baike.baidu.com/item/%E9%83%AD%E5%9B%BE/1124177?fr=aladdin">郭图</a></td> 
+  <tr>
+    <td>< a href = "https://baike.baidu.com/item/%E9%83%AD%E5%9B%BE/1124177?fr=aladdin">郭图</a></td> 
       <td> 
         官渡之战时力主趁机偷袭曹营，在此计失败后为免于责罚<br>
         而归罪于率军偷袭曹营的张郃、高览，致使二人背袁投曹。<br>
