@@ -97,14 +97,6 @@
         后来，沮授欲回河北，事败被杀。曹操曾叹息：“孤早相得，天下不足虑。” 
       </td>
   </tr> 
-  <tr> <td><a href = "https://baike.baidu.com/item/%E8%AE%B8%E6%94%B8/65176?fr=aladdin">许攸</a></td> 
-      <td>本为袁绍帐下谋士，官渡之战时其家人因犯法而被收捕，<br>
-        许攸因此背袁投曹，并为曹操设下偷袭袁绍军屯粮之所乌巢的计策，<br>
-        袁绍因此而大败于官渡。<br>
-        后许攸随曹操平定冀州. <br>
-        因自恃其功而屡屡口出狂言，终因触怒曹操而被杀。
-      </td>
-  </tr> 
   <tr> <td><a href = "https://baike.baidu.com/item/%E9%80%A2%E7%BA%AA/4885541?fr=aladdin">逢纪</a></td> 
       <td>献计取冀<br>
         和好审配<br>
@@ -127,7 +119,16 @@
         袁绍死后为其长子袁谭效力，于205年和袁谭一同被曹操所杀。<br>
       </td> </tr> 
   <tr> <td><a href = "https://baike.baidu.com/item/%E8%8D%80%E8%B0%8C/6115859?fr=aladdin">荀谌</a></td>
-    <td>荀彧的同胞兄弟<br>巧辩韩馥,让冀州给袁绍</td> </tr> 
+    <td>荀彧的同胞兄弟<br>巧辩韩馥,让冀州给袁绍</td>
+  </tr>
+  <tr> <td><a href = "https://baike.baidu.com/item/%E8%AE%B8%E6%94%B8/65176?fr=aladdin">许攸</a></td> 
+      <td>本为袁绍帐下谋士，官渡之战时其家人因犯法而被收捕，<br>
+        许攸因此背袁投曹，并为曹操设下偷袭袁绍军屯粮之所乌巢的计策，<br>
+        袁绍因此而大败于官渡。<br>
+        后许攸随曹操平定冀州. <br>
+        因自恃其功而屡屡口出狂言，终因触怒曹操而被杀。
+      </td>
+  </tr>   
     <tr>
       <td><a href = "https://baike.baidu.com/item/%E8%BE%9B%E6%AF%97/1020393?fr=aladdin">辛毗</a>
       </td>
